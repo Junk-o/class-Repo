@@ -8,6 +8,8 @@ This project is a simple C++ program that prints "Hello World" to the console an
 
 ## How to Build and Run on Ubuntu (Command Line)
 
+> **Tip:** Make sure you are in the project folder first: `cd class-Repo`
+
 1. Install the C++ compiler:
 
         sudo apt install g++
