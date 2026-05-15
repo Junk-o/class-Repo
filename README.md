@@ -6,19 +6,19 @@ This repository is for learning how to create a Hello World project.
 
 This project is a simple C++ program that prints "Hello World" to the console and exits successfully.
 
-## How to Build on Ubuntu (Command Line)
+## How to Build and Run on Ubuntu (Command Line)
 
-First, install the C++ compiler if you don't have it:
+1. Install the C++ compiler:
 
-    sudo apt install g++
+        sudo apt install g++
 
-Then compile the program:
+2. Compile the program:
 
-    g++ main.cpp -o hello
+        g++ main.cpp -o hello
 
-## How to Run
+3. Run the program:
 
-    ./hello
+        ./hello
 
 ## How to Build on Windows (Visual Studio)
 
